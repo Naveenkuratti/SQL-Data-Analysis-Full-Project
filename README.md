@@ -1,6 +1,6 @@
 # SQL Data Analysis Full Project
             
-     
+      
 ## Overview
 This project involves analyzing pizza sales data using SQL to derive insights that can guide business strategies.
 
