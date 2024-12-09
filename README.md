@@ -4,7 +4,7 @@
 ## Overview
 This project involves analyzing pizza sales data using SQL to derive insights that can guide business strategies.
 
-## Repository Contents
+## Repository Contents    
 - **Questions.txt**: Contains analytical questions addressed in this project.
 - **pizza_sales.zip**: A zipped folder with the dataset used for analysis.
 - **SQL Queries**: (Include a brief description of any SQL files if available.)
