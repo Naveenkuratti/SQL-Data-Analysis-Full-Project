@@ -15,7 +15,7 @@ This project involves analyzing pizza sales data using SQL to derive insights th
 3. **Execute Queries**: Run the SQL queries to answer the questions outlined in `Questions.txt`.
 
 ## Analysis Questions
-- (List key questions you aim to answer with your analysis.)
+- (List key questions you aim to answer with your analysis.)        
 
 ## Usage
 - Provide instructions on how to run the SQL queries or any scripts if applicable.
